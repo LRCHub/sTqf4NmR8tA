@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Like A Dream",
+  "base_artist": "MINNIE",
+  "createdAt": "2025-12-01T12:43:43.126374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just like A Dream",
+      "artist": "Lykke Li",
+      "has_synced": true,
+      "path": "select/01_Just_like_A_Dream_Lykke_Li.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Like A Dream Sometimes",
+      "artist": "The Sugarhill Gang",
+      "has_synced": false,
+      "path": "select/02_It's_Like_A_Dream_Sometimes_The_Sugarhill_Gang.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just Like A Dream Today (First Sessions Outtake)",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/03_Just_Like_A_Dream_Today_(First_Sessions_Outtake)_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Like a Dream",
+      "artist": "Alastis",
+      "has_synced": false,
+      "path": "select/04_Like_a_Dream_Alastis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Like A Dream",
+      "artist": "Louise Burns",
+      "has_synced": false,
+      "path": "select/05_Like_A_Dream_Louise_Burns.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Plans Are Like a Dream U Organise",
+      "artist": "The Go! Team",
+      "has_synced": true,
+      "path": "select/06_Plans_Are_Like_a_Dream_U_Organise_The_Go!_Team.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Live Like A Dream",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/07_Live_Like_A_Dream_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Live Like A Dream",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/08_Live_Like_A_Dream_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Endless Circles - This Conversation Seems Like a Dream",
+      "artist": "Kip Winger",
+      "has_synced": false,
+      "path": "select/09_Endless_Circles_-_This_Conversation_Seems_Like_a_Dream_Kip_Winger.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Summer Is Like a Dream",
+      "artist": "khai dreams",
+      "has_synced": true,
+      "path": "select/10_Summer_Is_Like_a_Dream_khai_dreams.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Like a Dream (feat. Gahzahr)",
+      "artist": "Solomon Lange feat. Gahzahr",
+      "has_synced": true,
+      "path": "select/11_Like_a_Dream_(feat._Gahzahr)_Solomon_Lange_feat._Gahzahr.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Like a Dream (feat. Gahzahr)",
+      "artist": "Solomon Lange",
+      "has_synced": true,
+      "path": "select/12_Like_a_Dream_(feat._Gahzahr)_Solomon_Lange.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ain't That Just Like A Dream",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/13_Ain't_That_Just_Like_A_Dream_Tim_McGraw.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Like a Dream (1989 Recording)",
+      "artist": "忌野 清志郎",
+      "has_synced": false,
+      "path": "select/pl_01_Like_a_Dream_(1989_Recording)_忌野_清志郎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Like a Dream",
+      "artist": "忌野 清志郎",
+      "has_synced": false,
+      "path": "select/pl_02_Like_a_Dream_忌野_清志郎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Like A Dream",
+      "artist": "忌野 清志郎",
+      "has_synced": false,
+      "path": "select/pl_03_Like_A_Dream_忌野_清志郎.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Like A Dream",
+      "artist": "忌野 清志郎",
+      "has_synced": false,
+      "path": "select/pl_04_Like_A_Dream_忌野_清志郎.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Like A Dream",
+      "artist": "忌野 清志郎",
+      "has_synced": false,
+      "path": "select/pl_05_Like_A_Dream_忌野_清志郎.txt"
+    }
+  ]
+}
